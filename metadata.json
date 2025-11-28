@@ -1,0 +1,8 @@
+{
+  "name": "ShapeSpire Nexus",
+  "description": "A comprehensive project management and AI-powered architectural platform for ShapeSpire and Boisabi Resort.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
